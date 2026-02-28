@@ -1,8 +1,8 @@
 version: 0.2.6
 files:
-  - url: https://github.com/syfssb/cherrypackage/releases/download/v0.2.6/Cherry%20Agent%20Setup%200.2.6.exe
+  - url: https://github.com/syfssb/cherrypackage/releases/download/v0.2.6/Cherry.Agent.Setup.0.2.6.exe
     sha512: YBw6TLf3iQOkr4n6MULrsgCnlRepMU/qoLOYkvhDYOCIqX+9X702OnQD2ASjeHpBxswZ9nKvrPIHeRdSaxWTRQ==
     size: 197878773
-path: https://github.com/syfssb/cherrypackage/releases/download/v0.2.6/Cherry%20Agent%20Setup%200.2.6.exe
+path: https://github.com/syfssb/cherrypackage/releases/download/v0.2.6/Cherry.Agent.Setup.0.2.6.exe
 sha512: YBw6TLf3iQOkr4n6MULrsgCnlRepMU/qoLOYkvhDYOCIqX+9X702OnQD2ASjeHpBxswZ9nKvrPIHeRdSaxWTRQ==
 releaseDate: '2026-02-28T22:15:05.055Z'
