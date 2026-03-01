@@ -1,8 +1,8 @@
-version: 0.2.7
+version: 0.2.8
 files:
-  - url: https://github.com/syfssb/cherrypackage/releases/download/v0.2.7/Cherry.Agent-0.2.7-arm64-mac.zip
-    sha512: fn9otpPCBsCbVwiiAWONQF7SCGKrJmfk8yZnk2rE7+USGachVsoZ7mKQGAk85XfamATJ2JpAhq3kBvvc3VbLNw==
+  - url: https://github.com/syfssb/cherrypackage/releases/download/v0.2.8/Cherry.Agent-0.2.8-arm64-mac.zip
+    sha512: X28NDjhKsAW9Bo7u9MZhBmcLcvA36eaP8nQnNppySFom4dVX0u8xS468w2EQJC8qqsAhhUDjUVIrfWvHh0SNdw==
     size: 533017108
-path: https://github.com/syfssb/cherrypackage/releases/download/v0.2.7/Cherry.Agent-0.2.7-arm64-mac.zip
-sha512: fn9otpPCBsCbVwiiAWONQF7SCGKrJmfk8yZnk2rE7+USGachVsoZ7mKQGAk85XfamATJ2JpAhq3kBvvc3VbLNw==
-releaseDate: '2026-02-28T23:27:30.460Z'
+path: https://github.com/syfssb/cherrypackage/releases/download/v0.2.8/Cherry.Agent-0.2.8-arm64-mac.zip
+sha512: X28NDjhKsAW9Bo7u9MZhBmcLcvA36eaP8nQnNppySFom4dVX0u8xS468w2EQJC8qqsAhhUDjUVIrfWvHh0SNdw==
+releaseDate: '2026-02-28T23:57:46.941Z'
