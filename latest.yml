@@ -1,8 +1,8 @@
-version: 0.2.8
+version: 0.2.9
 files:
-  - url: https://github.com/syfssb/cherrypackage/releases/download/v0.2.8/Cherry.Agent.Setup.0.2.8.exe
-    sha512: oaaKQM0tQqciCI6gD+l6Y462F36oaXJQlqWHEFu++1Dkh3ss2e7MCcQUenbDMROTV3+YImM4ra0ZKi93Z4vZ0g==
-    size: 197878909
-path: https://github.com/syfssb/cherrypackage/releases/download/v0.2.8/Cherry.Agent.Setup.0.2.8.exe
-sha512: oaaKQM0tQqciCI6gD+l6Y462F36oaXJQlqWHEFu++1Dkh3ss2e7MCcQUenbDMROTV3+YImM4ra0ZKi93Z4vZ0g==
-releaseDate: '2026-02-28T23:58:41.281Z'
+  - url: https://github.com/syfssb/cherrypackage/releases/download/v0.2.9/Cherry.Agent.Setup.0.2.9.exe
+    sha512: Q9klZFvzVBs9UO/VB/iz1Oo4/41t6gbgTeqhZA1PuVdga+tVzIyAEqg97uAC/6g+pZF+1z4JpCGNaMWM7PAM3w==
+    size: 197878750
+path: https://github.com/syfssb/cherrypackage/releases/download/v0.2.9/Cherry.Agent.Setup.0.2.9.exe
+sha512: Q9klZFvzVBs9UO/VB/iz1Oo4/41t6gbgTeqhZA1PuVdga+tVzIyAEqg97uAC/6g+pZF+1z4JpCGNaMWM7PAM3w==
+releaseDate: '2026-03-01T00:21:59.885Z'
