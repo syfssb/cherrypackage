@@ -1,8 +1,9 @@
-version: 0.2.14
+version: 0.2.15
 files:
-  - url: https://github.com/syfssb/cherrypackage/releases/download/v0.2.14/Cherry.Agent-0.2.14-arm64-mac.zip
-    sha512: Bk/ca0rRuGCuy0NkXDz+ZFd2OF+bxvibZgFr4ETeb6Jx8pzCZBdBSUrSnR8kaYBl2d7ZKvUVuVr1CcXAqB7YBA==
-    size: 533022986
-path: https://github.com/syfssb/cherrypackage/releases/download/v0.2.14/Cherry.Agent-0.2.14-arm64-mac.zip
-sha512: Bk/ca0rRuGCuy0NkXDz+ZFd2OF+bxvibZgFr4ETeb6Jx8pzCZBdBSUrSnR8kaYBl2d7ZKvUVuVr1CcXAqB7YBA==
-releaseDate: '2026-03-01T14:26:23.828Z'
+  - url: Cherry Agent-0.2.15-arm64-mac.zip
+    sha512: w7LCl6d2XQ9tM6TW6NzI0yc6v/75sVOadv9UISPOxu1eX9CxsDUuof6sUr+Zp63wi99ftKp1AJHkD1OYgbe7uA==
+    size: 533024049
+path: Cherry Agent-0.2.15-arm64-mac.zip
+sha512: w7LCl6d2XQ9tM6TW6NzI0yc6v/75sVOadv9UISPOxu1eX9CxsDUuof6sUr+Zp63wi99ftKp1AJHkD1OYgbe7uA==
+releaseDate: '2026-03-01T20:58:51.555Z'
+dmgUrl: https://agent-1313095247.cos.ap-hongkong.myqcloud.com/Cherry-Agent-0.2.15-arm64.dmg
