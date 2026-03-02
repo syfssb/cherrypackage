@@ -1,9 +1,9 @@
 version: 0.2.15
 files:
-  - url: Cherry Agent-0.2.15-mac.zip
+  - url: https://github.com/syfssb/cherrypackage/releases/download/v0.2.15/Cherry.Agent-0.2.15-mac.zip
     sha512: omeD7TaJppiqJay3MRUvPXKuNwPALJ59TPSFEJuiWSso1HFjV1QpCiEG3aKQm3aLmcCLGlnOXirEsFSUx/KIRw==
     size: 537834167
-path: Cherry Agent-0.2.15-mac.zip
+path: https://github.com/syfssb/cherrypackage/releases/download/v0.2.15/Cherry.Agent-0.2.15-mac.zip
 sha512: omeD7TaJppiqJay3MRUvPXKuNwPALJ59TPSFEJuiWSso1HFjV1QpCiEG3aKQm3aLmcCLGlnOXirEsFSUx/KIRw==
 releaseDate: '2026-03-01T20:59:05.871Z'
 dmgUrl: https://agent-1313095247.cos.ap-hongkong.myqcloud.com/Cherry-Agent-0.2.15.dmg
