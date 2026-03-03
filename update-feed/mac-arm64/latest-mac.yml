@@ -1,9 +1,9 @@
-version: 0.2.18
+version: 0.2.19
 files:
-  - url: https://github.com/syfssb/cherrypackage/releases/download/v0.2.18/Cherry.Agent-0.2.18-arm64-mac.zip
-    sha512: TL/ed4IpEnHfjTJyLrigBQke0a7A2VLYHxL5LKqyRgzxKBa5QUmJ0PgWIrm9GPZ5LEhPpymVWzp0K/Xs3cFCZA==
-    size: 533758750
-path: https://github.com/syfssb/cherrypackage/releases/download/v0.2.18/Cherry.Agent-0.2.18-arm64-mac.zip
-sha512: TL/ed4IpEnHfjTJyLrigBQke0a7A2VLYHxL5LKqyRgzxKBa5QUmJ0PgWIrm9GPZ5LEhPpymVWzp0K/Xs3cFCZA==
-releaseDate: '2026-03-03T09:24:48.140Z'
-dmgUrl: https://agent-1313095247.cos.ap-hongkong.myqcloud.com/Cherry-Agent-0.2.18-arm64.dmg
+  - url: https://github.com/syfssb/cherrypackage/releases/download/v0.2.19/Cherry.Agent-0.2.19-arm64-mac.zip
+    sha512: tHNWJe00kmJfCakgf7dK19fACC7seMMVpQ1zLc8xxyWK99nOrL/7hO7xXLJU4bUqRWAikLWYi4jedno32xx11w==
+    size: 533762262
+path: https://github.com/syfssb/cherrypackage/releases/download/v0.2.19/Cherry.Agent-0.2.19-arm64-mac.zip
+sha512: tHNWJe00kmJfCakgf7dK19fACC7seMMVpQ1zLc8xxyWK99nOrL/7hO7xXLJU4bUqRWAikLWYi4jedno32xx11w==
+releaseDate: '2026-03-03T19:42:17.093Z'
+dmgUrl: https://agent-1313095247.cos.ap-hongkong.myqcloud.com/Cherry-Agent-0.2.19-arm64.dmg
