@@ -3,7 +3,8 @@ files:
   - url: https://agent-1313095247.cos.ap-hongkong.myqcloud.com/Cherry-Agent-1.0.7-arm64-mac.zip
     sha512: RVQ72Wb5GwpCQY/QX27n6TXDdjF9rpsf9l1zvn7WKgUV4/DmPm4ELO1Zfe6fCKZUiS5GCnDkmNe3EHnQOosBpg==
     size: 282301017
+    blockMapSize: 296246
 path: https://agent-1313095247.cos.ap-hongkong.myqcloud.com/Cherry-Agent-1.0.7-arm64-mac.zip
 sha512: RVQ72Wb5GwpCQY/QX27n6TXDdjF9rpsf9l1zvn7WKgUV4/DmPm4ELO1Zfe6fCKZUiS5GCnDkmNe3EHnQOosBpg==
-releaseDate: '2026-03-13T12:15:20.123Z'
+releaseDate: '2026-03-13T00:00:00.000Z'
 dmgUrl: https://agent-1313095247.cos.ap-hongkong.myqcloud.com/Cherry-Agent-1.0.7-arm64.dmg
