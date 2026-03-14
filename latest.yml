@@ -1,8 +1,8 @@
-version: 1.0.9
+version: 1.0.10
 files:
-  - url: https://agent-1313095247.cos.ap-hongkong.myqcloud.com/Cherry-Agent-Setup-1.0.9.exe
-    sha512: 17Cc3HDMJjaziwkLVYtG3z9F80WclDHGecugX1UB/5d57/E++LFWlInkZgSPTYmqISK2SRZbpuNYRikSVnMZ5g==
-    size: 229035864
-path: https://agent-1313095247.cos.ap-hongkong.myqcloud.com/Cherry-Agent-Setup-1.0.9.exe
-sha512: 17Cc3HDMJjaziwkLVYtG3z9F80WclDHGecugX1UB/5d57/E++LFWlInkZgSPTYmqISK2SRZbpuNYRikSVnMZ5g==
-releaseDate: '2026-03-13T16:04:11.799Z'
+  - url: https://agent-1313095247.cos.ap-hongkong.myqcloud.com/Cherry-Agent-Setup-1.0.10.exe
+    sha512: QhG4q21KEA7dODQHoR8mfLAia718egS00mpFY+ynC9vuM4x8rmfyY0hJPQbb1eEIFxht+y0Y1bgWNYyHZRlgHQ==
+    size: 229036173
+path: https://agent-1313095247.cos.ap-hongkong.myqcloud.com/Cherry-Agent-Setup-1.0.10.exe
+sha512: QhG4q21KEA7dODQHoR8mfLAia718egS00mpFY+ynC9vuM4x8rmfyY0hJPQbb1eEIFxht+y0Y1bgWNYyHZRlgHQ==
+releaseDate: '2026-03-14T02:10:11.125Z'
