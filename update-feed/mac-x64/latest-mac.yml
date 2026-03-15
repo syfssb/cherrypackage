@@ -1,9 +1,9 @@
-version: 1.0.13
+version: 1.0.14
 files:
-  - url: https://agent-1313095247.cos.ap-hongkong.myqcloud.com/Cherry-Agent-1.0.13-mac.zip
-    sha512: hR/KASR8G5pip3njS4DH37ct0azGmd9CVG2PsQ2j/29YH1lG3ahHXv+EVeEYT7COPcPSECGRibUUl0byE3mayg==
-    size: 249797856
-path: https://agent-1313095247.cos.ap-hongkong.myqcloud.com/Cherry-Agent-1.0.13-mac.zip
-sha512: hR/KASR8G5pip3njS4DH37ct0azGmd9CVG2PsQ2j/29YH1lG3ahHXv+EVeEYT7COPcPSECGRibUUl0byE3mayg==
-releaseDate: '2026-03-15T01:46:02.887Z'
-dmgUrl: https://agent-1313095247.cos.ap-hongkong.myqcloud.com/Cherry-Agent-1.0.13.dmg
+  - url: https://agent-1313095247.cos.ap-hongkong.myqcloud.com/Cherry-Agent-1.0.14-mac.zip
+    sha512: lJ7K3yjoLrZvqX7mO5I0PDL2MTISXC/569QtoVSHZvwyg8v8BZA1pHAJOLQq60adA0m9be+NAm7sqw9rBASjVA==
+    size: 247368215
+path: https://agent-1313095247.cos.ap-hongkong.myqcloud.com/Cherry-Agent-1.0.14-mac.zip
+sha512: lJ7K3yjoLrZvqX7mO5I0PDL2MTISXC/569QtoVSHZvwyg8v8BZA1pHAJOLQq60adA0m9be+NAm7sqw9rBASjVA==
+releaseDate: '2026-03-15T07:34:09.887Z'
+dmgUrl: https://agent-1313095247.cos.ap-hongkong.myqcloud.com/Cherry-Agent-1.0.14.dmg
