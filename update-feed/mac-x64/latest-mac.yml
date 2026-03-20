@@ -1,9 +1,9 @@
-version: 1.0.25
+version: 1.0.26
 files:
-  - url: https://dl.cherrychat.org/Cherry-Agent-1.0.25-mac.zip
-    sha512: JQFMZXhDTzc5MwJJ0rOGOOWXJbketJYZLuUD6y7sHCX/FfErjMXKMjXtOYNHQaBDN1xqg0CrPkeDzpY7tS/Q9g==
-    size: 248395817
-path: https://dl.cherrychat.org/Cherry-Agent-1.0.25-mac.zip
-sha512: JQFMZXhDTzc5MwJJ0rOGOOWXJbketJYZLuUD6y7sHCX/FfErjMXKMjXtOYNHQaBDN1xqg0CrPkeDzpY7tS/Q9g==
-releaseDate: '2026-03-19T18:52:20.504Z'
-dmgUrl: https://dl.cherrychat.org/Cherry-Agent-1.0.25.dmg
+  - url: https://dl.cherrychat.org/Cherry-Agent-1.0.26-mac.zip
+    sha512: VgWhFzqqpzfSAi6EjU9S21BLK8GgLNS13KA17PuPv8O/9Y8OyGRc16OCOCxgiLlU3GN3rM3ZXRFsZ3EH5wfFFQ==
+    size: 247893345
+path: https://dl.cherrychat.org/Cherry-Agent-1.0.26-mac.zip
+sha512: VgWhFzqqpzfSAi6EjU9S21BLK8GgLNS13KA17PuPv8O/9Y8OyGRc16OCOCxgiLlU3GN3rM3ZXRFsZ3EH5wfFFQ==
+releaseDate: '2026-03-20T18:34:25.094Z'
+dmgUrl: https://dl.cherrychat.org/Cherry-Agent-1.0.26.dmg
