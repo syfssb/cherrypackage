@@ -1,8 +1,8 @@
-version: 1.0.27
+version: 1.0.30
 files:
-  - url: https://dl.cherrychat.org/Cherry-Agent-Setup-1.0.27.exe
-    sha512: ZRguQcFfenVxmkBlbT1nTmo7vpKRemZZTyE1xLZhJWFpUXOHU8z6maJB5SDtLLElLs4n9SX7e3C0cM3bBofQ9A==
-    size: 231239865
-path: https://dl.cherrychat.org/Cherry-Agent-Setup-1.0.27.exe
-sha512: ZRguQcFfenVxmkBlbT1nTmo7vpKRemZZTyE1xLZhJWFpUXOHU8z6maJB5SDtLLElLs4n9SX7e3C0cM3bBofQ9A==
-releaseDate: '2026-03-27T14:31:44.357Z'
+  - url: https://dl.cherrychat.org/Cherry-Agent-Setup-1.0.30.exe
+    sha512: eNZKQtyRSqHQxRyzF65NASW9uCj8VnnGTvYyYR79ifCmq6zyhSVQCXkZlf59Dm0vdszynuWM9cwBNcsPInYe2w==
+    size: 231241039
+path: https://dl.cherrychat.org/Cherry-Agent-Setup-1.0.30.exe
+sha512: eNZKQtyRSqHQxRyzF65NASW9uCj8VnnGTvYyYR79ifCmq6zyhSVQCXkZlf59Dm0vdszynuWM9cwBNcsPInYe2w==
+releaseDate: '2026-03-28T13:27:56.835Z'
