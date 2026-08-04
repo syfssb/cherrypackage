@@ -1,9 +1,8 @@
-version: 1.0.30
+version: 1.0.31
 files:
-  - url: https://dl.cherrychat.org/Cherry-Agent-1.0.30-mac.zip
-    sha512: b8k7pAgpsvS0ZW2SUtV43UzBz4FTrb35vXh+AEo8mc560ASY5VC/HjLFBo8dXC779idbmVvy6P63XwGumUHs2g==
-    size: 247895011
-path: https://dl.cherrychat.org/Cherry-Agent-1.0.30-mac.zip
-sha512: b8k7pAgpsvS0ZW2SUtV43UzBz4FTrb35vXh+AEo8mc560ASY5VC/HjLFBo8dXC779idbmVvy6P63XwGumUHs2g==
-releaseDate: '2026-03-28T13:27:01.607Z'
-dmgUrl: https://dl.cherrychat.org/Cherry-Agent-1.0.30.dmg
+  - url: https://github.com/syfssb/cherrypackage/releases/download/v1.0.31/Cherry.Agent-1.0.31-mac.zip
+    sha512: 4qwf/Lerg59/CLqdzug9mAW1Q7Ll+MCsU7cyb2nTF7Uj07KSj9Hi8zwCwSL0ctgKmgi0KNoZoy7s5/uJ97WMBw==
+    size: 247896272
+path: https://github.com/syfssb/cherrypackage/releases/download/v1.0.31/Cherry.Agent-1.0.31-mac.zip
+sha512: 4qwf/Lerg59/CLqdzug9mAW1Q7Ll+MCsU7cyb2nTF7Uj07KSj9Hi8zwCwSL0ctgKmgi0KNoZoy7s5/uJ97WMBw==
+releaseDate: '2026-08-04T06:49:03.695Z'
